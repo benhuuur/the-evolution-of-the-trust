@@ -1,5 +1,6 @@
 # The-Evolution-Of-The-Trust
-    Em 2017 Nicky Case criou um jogo para estudar a Teoria dos Jogos que ficou popular no YouTube e redes sociais. The Evolution of Trust é um jogo onde analisamos
+    
+   Em 2017 Nicky Case criou um jogo para estudar a Teoria dos Jogos que ficou popular no YouTube e redes sociais. The Evolution of Trust é um jogo onde analisamos
 como a sociedade se comporta e como ela evolui diante de exercícios de confiança que acontecem no dia-a-dia. O teste ocorre da seguinte maneira:
     - Cada indivíduo começa com 10 moedas;
     - Quando indivíduos interagem o seguinte processo acontece:
